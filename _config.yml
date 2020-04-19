@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehmet Ali Özer Portfolio"
+title                    : "maliozer.github.io"
 title_separator          : "-"
 name                     : &name "Mehmet Ali Özer"
 description              : &description "personal description"
@@ -89,7 +89,7 @@ author:
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "mehmetali.ozer@std.yeditepe.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "maliozer.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
